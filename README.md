@@ -1,5 +1,6 @@
 # 🙋🏻‍♂️ About me:
-👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas<br>🤝 Desenvolvedor Angular/Laravel na Controladoria-Geral do Estado de Goiás <br>🌱 Estou aprendendo e migrando do Suporte Técnico para o Desenvolvimento desde Junho/2024<br>🚀 Possuo uma boa agilidade em aprender novas tecnologias!<br>
+👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas<br>🤝 Desenvolvedor Angular/Laravel na Controladoria-Geral do Estado de Goiás <br>🌱 Estou aprendendo e migrando do Suporte Técnico para o Desenvolvimento desde Junho/2024<br>🚀 Possuo boa agilidade em aprender novas tecnologias!<br>‼️ Alguns projetos que trabalho/trabalhei estão no Gitlab e não consigo mostrá-los publicamente!<br>
+
 
 
 # 💻 Tech Stack:
